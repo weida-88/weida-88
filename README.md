@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weida-88
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning programming and cryptocurrency
-- 💞️ I’m looking to collaborate on searching meme coins
+- 🚀 I’m looking to collaborate on searching meme coins
 - 📫 How to reach me contact.weida@protonmail.com
 
 <!---
