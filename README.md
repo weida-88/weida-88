@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weida-88
+- 👋 Hi, I’m Weida
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning programming and cryptocurrency
 - 🚀 I’m looking to collaborate on searching meme coins
