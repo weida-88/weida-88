@@ -19,7 +19,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weida-88&show_icons=true&locale=en&layout=compact" alt="weida-88" /></p><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weida-88&show_icons=true&locale=en&layout=compact" alt="weida-88" /></p><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weida-88&show_icons=true&locale=en" alt="weida-88" /></p><br>
 
