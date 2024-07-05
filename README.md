@@ -1,7 +1,3 @@
-Tentu, berikut adalah versi yang lebih enak dibaca dan menarik:
-
----
-
 ### Hi there! I'm Agung Weida 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic IT student who loves to share my academic journey through various projects and assignments. Here, you'll get a glimpse of my learning experiences and my passion for technology.
