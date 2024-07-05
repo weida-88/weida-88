@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an enthusiastic IT student who loves to share 
 - **Personal Projects:** My own creations, ranging from small utilities to larger applications.
 
 #### Skills and Interests
-- **Programming Languages:** Java, JavaScript, C++
+- **Programming Languages:** JavaScript, C++
 - **Web Development:** HTML, CSS, JavaScript, WordPress
 - **Backend Development:** Learning backend technologies and frameworks
 - **Cybersecurity:** Understanding basic concepts and practical applications
