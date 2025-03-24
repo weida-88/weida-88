@@ -40,17 +40,6 @@ Other Tools:    Git, Docker, VSCode, Figma, ManyChat, WordPress
 
 ---
 
-## 💼 Projects & Ventures
-
-- 🛠️ **Dewata Solutions** — My own IT solutions brand (Web & AI tools)
-- 🤖 AI Chatbots for WhatsApp, Instagram, and Web using **ManyChat**
-- 🌱 Smart Farming System (ESP32 + Web Dashboard + MQTT)
-- 🔐 Face Detection Security System (ESP32-CAM)
-- 🧠 Brain Training with AI-enhanced tools & gamified apps
-- 📈 Real-time Bitcoin/Crypto dashboards with Python
-
----
-
 ## 📈 Vision
 
 I’m building toward a future where technology, intelligence, and creativity lead to exponential wealth and positive global impact. I believe in **data-driven decisions**, **skill stacking**, and **global thinking**.
