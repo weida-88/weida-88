@@ -52,6 +52,6 @@ I’m building toward a future where technology, intelligence, and creativity le
 
 - 🌐 [soon]
 - 💼 [LinkedIn](https://www.linkedin.com/in/agungweida/)
-- 📩 Email: [gungdeweida8@gmail.com]
+- 📩 Email: ([gungdeweida8@gmail.com])
 
 Let’s innovate, collaborate, and scale ideas that change the world. 💥
