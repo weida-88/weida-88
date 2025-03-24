@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Future No.1 💸 | AI & Tech Enthusiast | Investor | Visionary 🚀
+# 👋 Hi, I'm Weida — Future No.1 💸 | AI & Tech Enthusiast | Investor | Visionary 🚀
 
 Welcome to my GitHub! I'm an ambitious and future-focused individual pursuing excellence in Artificial Intelligence, Cybersecurity, Investment, and Entrepreneurship. My goal? To become the **richest, smartest, and most successful person in the world** — and help others grow with me along the way.
 
