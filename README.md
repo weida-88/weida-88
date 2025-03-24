@@ -21,10 +21,10 @@ Welcome to my GitHub! I'm an ambitious and future-focused individual pursuing ex
 Languages:      Python, Java, C++, JavaScript, Bash  
 Frameworks:     TensorFlow, Flask, React, Node.js  
 AI/ML Tools:    Scikit-learn, OpenCV, GPT, YOLO  
-Cloud:          AWS (Learning), Firebase, Local Linux Servers  
-IoT:            ESP8266/ESP32, MQTT, Node-RED, Arduino  
+Cloud:          Local Linux Servers (Raspberry Pi, Virtual Box) 
+IoT:            ESP8266/ESP32, MQTT, Arduino  
 Databases:      MySQL, MongoDB, SQLite  
-Other Tools:    Git, Docker, VSCode, Figma, ManyChat, WordPress
+Other Tools:    Git, Docker, VSCode, Figma, WordPress
 ```
 
 ---
