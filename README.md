@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Weida — AI & Tech Enthusiast | Investor | Visionary 🚀
+# 👋 Hi, I'm Weida — AI & Tech Enthusias
 
 Welcome to my GitHub! I'm an ambitious and future-focused individual pursuing excellence in Artificial Intelligence, Cybersecurity, Investment, and Entrepreneurship. My goal? To help others grow with me along the way.
 
