@@ -1,21 +1,20 @@
 # 👋 Hi, I'm Weida — AI & Tech Enthusias
 
-Welcome to my GitHub! I'm an ambitious and future-focused individual pursuing excellence in Artificial Intelligence, Cybersecurity, Investment, and Entrepreneurship. My goal? To help others grow with me along the way.
+Welcome to my GitHub! I'm an ambitious and future-focused individual pursuing excellence in Artificial Intelligence, Cybersecurity, Investment, and Entrepreneurshi.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Currently studying **Computer Engineering & AI**
-- 💼 Building tech projects, startups, and solutions that scale
+- 💼 Building tech projects, and solutions that scale
 - 🧠 Passionate about **Machine Learning**, **IoT**, **Web Dev**, and **Security**
-- 📈 Experienced in **Crypto**, **Bitcoin**, and **Financial Markets**
-- 🧩 Gamer mindset IRL — life is a level-up journey
+- 📈 Other Experienced in **Bitcoin**, and **Financial Markets**
 - 🌏 Based in Bali, working on global impact
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack That I Have Explore
 
 ```
 Languages:      Python, Java, C++, JavaScript, Bash  
@@ -32,7 +31,7 @@ Other Tools:    Git, Docker, VSCode, Figma, WordPress
 ## 📚 Learning Journey
 
 - 🔍 Deep diving into **Artificial Intelligence & Applied Machine Learning**
-- 🧠 Mastering **Object-Oriented Programming** in Java & Python
+- 🧠 Mastering **Object-Oriented Programming** in Java
 - ☁️ Exploring **Cloud Computing** & server-side deployment
 - 🛡️ Practicing ethical hacking & **Cybersecurity Fundamentals**
 - 🤖 Building smart systems using **IoT + Web Integration**
@@ -50,8 +49,8 @@ I’m building toward a future where technology, intelligence, and creativity le
 
 ## 📫 Connect With Me
 
-- 🌐 [soon]
-- 💼 [LinkedIn](https://www.linkedin.com/in/agungweida/)
-- 📩 Email: ([gungdeweida8@gmail.com])
+- 🌐 [Dewata Solutions](https://dewatasolutions.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/weidaksatriawarma/)
+- 📩 Email: ([contact.weida@gmail.com])
 
 Let’s innovate, collaborate, and scale ideas that change the world. 💥
